@@ -6,9 +6,9 @@ color:
   saturation: 0.22003385960124433
   rhythmicContrast: 0.2569409797433764
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#050040'
+    - '#FFFFFF'
+    - '#139801'
+    - '#726F93'
+    - '#A4A4A4'
 name: Sevron Properties
